@@ -1181,4 +1181,10 @@ Wire Notes Line
 	1400 6600 1400 5750
 Text Notes 2450 5700 0    50   ~ 0
 Ext. Oscillator
+Text Notes 12200 10900 0    50   ~ 0
+Infrared Tire Temperature Sensor
+Text Notes 13000 11050 0    50   ~ 0
+Oct 21 2020
+Text Notes 11900 10500 0    50   ~ 0
+Joel Sol
 $EndSCHEMATC
